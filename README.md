@@ -3,6 +3,6 @@
 3. sqldeveloper를 사용
 4. inflearn 참고
 
-출처:
+Reference: <br />
 https://www.inflearn.com/course-status-2/ <br />
 http://all-record.tistory.com/115
